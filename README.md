@@ -1,3 +1,3 @@
 # hello-world
-Tutorial Repository
+This is a Tutorial Repository
 I'm using Github to do coding assignments from Coursera
